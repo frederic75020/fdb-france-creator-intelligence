@@ -25,3 +25,9 @@ Dashboard statique pour une campagne de gifting France, coordonnée par Eaux Rar
 Site HTML/CSS/JS sans dépendance ni étape de compilation, facilement déployable sur Netlify. Chargement du fichier `data/creators.json` côté navigateur.
 
 Pour une phase 2 : base Supabase avec rôles, interface d'administration authentifiée, Netlify Functions pour synchroniser Apify avec un jeton stocké en variable secrète, journal des extractions et suivis des expéditions. **Ne jamais ajouter de coordonnées privées ou de clés API à ce dépôt ni à des fichiers distribués publiquement.**
+
+## Interface tablette/mobile et annotations (18 octobre 2026)
+
+Le tableau bascule en fiches sur mobile et les graphiques se réorganisent sur tablette. Chaque profil comporte désormais une note éditable et une liste de commentaires horodatés. **Attention :** ces annotations sont enregistrées uniquement via `localStorage` dans le navigateur courant ; elles ne sont ni partagées, ni sauvegardées sur un serveur, et peuvent disparaître lors du nettoyage des données du navigateur. Ne pas y stocker de coordonnées privées ou d'informations sensibles. Pour un workflow collaboratif, une base authentifiée est nécessaire.
+
+Le connecteur Apify mis à disposition pour cette session expose uniquement `apify/instagram-scraper` : aucune donnée TikTok ne peut être présentée comme vérifiée. Il faut configurer un acteur TikTok approprié et son accès avant de remplacer les valeurs déclaratives.
