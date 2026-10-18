@@ -1,0 +1,326 @@
+{
+  "name": "Fragrance du Bois France Creator Intelligence",
+  "version": "1.0.0",
+  "updatedAt": "2026-10-18",
+  "notes": [
+    "Instagram: 12 profile follower counts from Apify; Marc restricted.",
+    "TikTok: 10 previously supplied follower counts, not verified by Apify.",
+    "Combined social totals are not deduplicated unique reach.",
+    "The approved giftings have no confirmed shipment status.",
+    "No private shipping addresses, emails or phone numbers included."
+  ],
+  "creators": [
+    {
+      "id": "FDB-FR-001",
+      "name": "Ahmed",
+      "category": "Parfum",
+      "instagram": {
+        "handle": "theahmedboy",
+        "url": "https://www.instagram.com/theahmedboy/",
+        "followers": 4084,
+        "source": "apify",
+        "checkedAt": "2026-10-18"
+      },
+      "tiktok": {
+        "handle": "theahmedboy",
+        "url": "https://www.tiktok.com/@theahmedboy",
+        "followers": 64200,
+        "source": "user_supplied_unverified"
+      },
+      "campaign": "Forbidden Plum",
+      "products": "Forbidden Plum — format à confirmer",
+      "validation": "pending",
+      "approvedBy": null,
+      "shipment": "not_confirmed",
+      "deliveryDeadline": "2026-10-30"
+    },
+    {
+      "id": "FDB-FR-002",
+      "name": "Tom",
+      "category": "Parfum",
+      "instagram": {
+        "handle": "tomfragrances",
+        "url": "https://www.instagram.com/tomfragrances/",
+        "followers": 26427,
+        "source": "apify",
+        "checkedAt": "2026-10-18"
+      },
+      "tiktok": {
+        "handle": "tomfragrances",
+        "url": "https://www.tiktok.com/@tomfragrances",
+        "followers": 31100,
+        "source": "user_supplied_unverified"
+      },
+      "campaign": "Forbidden Plum",
+      "products": "Forbidden Plum — format à confirmer",
+      "validation": "pending",
+      "approvedBy": null,
+      "shipment": "not_confirmed",
+      "deliveryDeadline": "2026-10-30"
+    },
+    {
+      "id": "FDB-FR-003",
+      "name": "Imen (à confirmer)",
+      "category": "Parfum, beauté",
+      "instagram": {
+        "handle": "scented.miki",
+        "url": "https://www.instagram.com/scented.miki/",
+        "followers": 12774,
+        "source": "apify",
+        "checkedAt": "2026-10-18"
+      },
+      "tiktok": {
+        "handle": "scented.miki",
+        "url": "https://www.tiktok.com/@scented.miki",
+        "followers": 7323,
+        "source": "user_supplied_unverified"
+      },
+      "campaign": "Forbidden Plum",
+      "products": "Forbidden Plum — format à confirmer",
+      "validation": "pending",
+      "approvedBy": null,
+      "shipment": "not_confirmed",
+      "deliveryDeadline": "2026-10-30"
+    },
+    {
+      "id": "FDB-FR-004",
+      "name": "Marc",
+      "category": "Parfum",
+      "instagram": {
+        "handle": "lecarnet__",
+        "url": "https://www.instagram.com/lecarnet__/",
+        "followers": null,
+        "source": "restricted",
+        "checkedAt": null
+      },
+      "tiktok": {
+        "handle": "lecarnet_",
+        "url": "https://www.tiktok.com/@lecarnet_",
+        "followers": 97400,
+        "source": "user_supplied_unverified"
+      },
+      "campaign": "Forbidden Plum",
+      "products": "Forbidden Plum — format à confirmer",
+      "validation": "pending",
+      "approvedBy": null,
+      "shipment": "not_confirmed",
+      "deliveryDeadline": "2026-10-30"
+    },
+    {
+      "id": "FDB-FR-005",
+      "name": "Ikram",
+      "category": "Parfum",
+      "instagram": {
+        "handle": "ikramparfums",
+        "url": "https://www.instagram.com/ikramparfums/",
+        "followers": 348468,
+        "source": "apify",
+        "checkedAt": "2026-10-18"
+      },
+      "tiktok": {
+        "handle": "ikramparfums",
+        "url": "https://www.tiktok.com/@ikramparfums",
+        "followers": 203200,
+        "source": "user_supplied_unverified"
+      },
+      "campaign": "Forbidden Plum",
+      "products": "Forbidden Plum — format à confirmer",
+      "validation": "pending",
+      "approvedBy": null,
+      "shipment": "not_confirmed",
+      "deliveryDeadline": "2026-10-30"
+    },
+    {
+      "id": "FDB-FR-006",
+      "name": "Tara",
+      "category": "Parfum",
+      "instagram": {
+        "handle": "taraparfume",
+        "url": "https://www.instagram.com/taraparfume/",
+        "followers": 23510,
+        "source": "apify",
+        "checkedAt": "2026-10-18"
+      },
+      "tiktok": {
+        "handle": "taraparfume",
+        "url": "https://www.tiktok.com/@taraparfume",
+        "followers": 24500,
+        "source": "user_supplied_unverified"
+      },
+      "campaign": "Forbidden Plum",
+      "products": "Forbidden Plum — format à confirmer",
+      "validation": "pending",
+      "approvedBy": null,
+      "shipment": "not_confirmed",
+      "deliveryDeadline": "2026-10-30"
+    },
+    {
+      "id": "FDB-FR-007",
+      "name": "Alex Sousa",
+      "category": "Luxe, beauté",
+      "instagram": {
+        "handle": "AlexandrSous",
+        "url": "https://www.instagram.com/AlexandrSous/",
+        "followers": 1340,
+        "source": "apify",
+        "checkedAt": "2026-10-18"
+      },
+      "tiktok": {
+        "handle": "alexsousaofficiel",
+        "url": "https://www.tiktok.com/@alexsousaofficiel",
+        "followers": 30400,
+        "source": "user_supplied_unverified"
+      },
+      "campaign": "Forbidden Plum",
+      "products": "Forbidden Plum — format à confirmer",
+      "validation": "pending",
+      "approvedBy": null,
+      "shipment": "not_confirmed",
+      "deliveryDeadline": "2026-10-30"
+    },
+    {
+      "id": "FDB-FR-008",
+      "name": "Rime El Mouharal",
+      "category": "Beauté, parfum",
+      "instagram": {
+        "handle": "its.ririsecrets",
+        "url": "https://www.instagram.com/its.ririsecrets/",
+        "followers": 76457,
+        "source": "apify",
+        "checkedAt": "2026-10-18"
+      },
+      "tiktok": {
+        "handle": "its.ririsecrets",
+        "url": "https://www.tiktok.com/@its.ririsecrets",
+        "followers": 25300,
+        "source": "user_supplied_unverified"
+      },
+      "campaign": "Forbidden Plum",
+      "products": "Forbidden Plum — format à confirmer",
+      "validation": "pending",
+      "approvedBy": null,
+      "shipment": "not_confirmed",
+      "deliveryDeadline": "2026-10-30"
+    },
+    {
+      "id": "FDB-FR-009",
+      "name": "Sarah Haba",
+      "category": "Beauté, parfum",
+      "instagram": {
+        "handle": "sarahvgs",
+        "url": "https://www.instagram.com/sarahvgs/",
+        "followers": 94719,
+        "source": "apify",
+        "checkedAt": "2026-10-18"
+      },
+      "tiktok": {
+        "handle": "sarahvgs_",
+        "url": "https://www.tiktok.com/@sarahvgs_",
+        "followers": 56200,
+        "source": "user_supplied_unverified"
+      },
+      "campaign": "Forbidden Plum",
+      "products": "Forbidden Plum — format à confirmer",
+      "validation": "pending",
+      "approvedBy": null,
+      "shipment": "not_confirmed",
+      "deliveryDeadline": "2026-10-30"
+    },
+    {
+      "id": "FDB-FR-010",
+      "name": "Mohamed Maddah",
+      "category": "Parfum",
+      "instagram": {
+        "handle": "_instant_parfum",
+        "url": "https://www.instagram.com/_instant_parfum/",
+        "followers": 18390,
+        "source": "apify",
+        "checkedAt": "2026-10-18"
+      },
+      "tiktok": {
+        "handle": "_instant_parfum",
+        "url": "https://www.tiktok.com/@_instant_parfum",
+        "followers": 2300,
+        "source": "user_supplied_unverified"
+      },
+      "campaign": "Forbidden Plum",
+      "products": "Forbidden Plum — format à confirmer",
+      "validation": "pending",
+      "approvedBy": null,
+      "shipment": "not_confirmed",
+      "deliveryDeadline": "2026-10-30"
+    },
+    {
+      "id": "FDB-FR-011",
+      "name": "Gwendal Tissier",
+      "category": "Parfum",
+      "instagram": {
+        "handle": "revue.parfum",
+        "url": "https://www.instagram.com/revue.parfum/",
+        "followers": 32439,
+        "source": "apify",
+        "checkedAt": "2026-10-18"
+      },
+      "tiktok": {
+        "handle": "revue.parfum",
+        "url": "https://www.tiktok.com/@revue.parfum",
+        "followers": null,
+        "source": "user_supplied_unverified"
+      },
+      "campaign": "Gifting individuel",
+      "products": "Oud Bleu Intense 50 ml + Oud Orange Intense (sample)",
+      "validation": "approved",
+      "approvedBy": "James and/or Yann",
+      "shipment": "not_confirmed",
+      "deliveryDeadline": null
+    },
+    {
+      "id": "FDB-FR-012",
+      "name": "Nolwenn Callouet",
+      "category": "Parfum",
+      "instagram": {
+        "handle": "nolwennclt",
+        "url": "https://www.instagram.com/nolwennclt/",
+        "followers": 7966,
+        "source": "apify",
+        "checkedAt": "2026-10-18"
+      },
+      "tiktok": {
+        "handle": "nolwennclt1",
+        "url": "https://www.tiktok.com/@nolwennclt1",
+        "followers": null,
+        "source": "user_supplied_unverified"
+      },
+      "campaign": "Gifting individuel",
+      "products": "Brume du Matin 100 ml + Voyage à Paris (sample)",
+      "validation": "approved",
+      "approvedBy": "James and/or Yann",
+      "shipment": "not_confirmed",
+      "deliveryDeadline": null
+    },
+    {
+      "id": "FDB-FR-013",
+      "name": "Antoine Goretti",
+      "category": "Parfum",
+      "instagram": {
+        "handle": "antoinegoretti",
+        "url": "https://www.instagram.com/antoinegoretti/",
+        "followers": 445360,
+        "source": "apify",
+        "checkedAt": "2026-10-18"
+      },
+      "tiktok": {
+        "handle": null,
+        "url": null,
+        "followers": null,
+        "source": "no_account_or_unavailable"
+      },
+      "campaign": "Gifting individuel",
+      "products": "Cannabis Blue 100 ml + Sirène (sample) + Santal Complet (sample)",
+      "validation": "approved",
+      "approvedBy": "James and/or Yann",
+      "shipment": "not_confirmed",
+      "deliveryDeadline": null
+    }
+  ]
+}
